@@ -5,7 +5,7 @@
   "main": "drn.js",
   "type": "module",
   "bin": {
-    "drn": "./drn.js"
+    "drg": "./drn.js"
   },
   "scripts": {
     "start": "node index.js",
